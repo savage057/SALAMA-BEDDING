@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "subtitle": "Our Heritage & Vision",
+    "title": "Crafting the Art of Restful Luxury",
+    "description": "Welcome to SALAMA BEDDING, where we believe that a bedroom is more than just a place to sleep—it is your personal sanctuary."
+  },
+  "story": {
+    "subtitle": "The Story of SALAMA BEDDING",
+    "title": "Bridging Elegant Design with Personal Customization",
+    "paragraph1": "Salama Bedding was born from a simple observation: finding high-quality bedding that perfectly fits your mattress size while matching your unique taste is unnecessarily difficult. Most options are either mass-produced in low-grade materials, or fail to account for non-standard sizing.",
+    "paragraph2": "We set out to create a luxury experience where premium long-staple cotton meets beautiful, curated patterns—from minimalist geometries and classic heritage florals to whimsical novelty prints. Every bedding set is made to order, ensuring it wraps your bed in absolute perfection."
+  },
+  "image": {
+    "url": "/images/about_hero_bedroom.png"
+  },
+  "pillars": [
+    {
+      "id": "1",
+      "title": "Artisan Sizing",
+      "description": "Standard bedding sizes rarely align with custom mattress variations. We design each piece to wrap around your mattress profile snugly, leaving no loose gathers or tight corners.",
+      "icon": "sizing"
+    },
+    {
+      "id": "2",
+      "title": "Premium Weaves",
+      "description": "Sourced from breathable, high-grade cotton. Our weaves regulate temperature naturally, staying cool in warm nights and keeping you insulated in cooler settings.",
+      "icon": "weave"
+    },
+    {
+      "id": "3",
+      "title": "Design Customization",
+      "description": "Express your design style. We offer curated segments spanning clean stripes, classic florals, and lively novelty patterns, all easily customizable in multi-tone colorways.",
+      "icon": "custom"
+    }
+  ]
+}
